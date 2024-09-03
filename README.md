@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hii Everyone, 
 I'm @durgazix 
+
 I'm currently working on a MERN stack project.. <br>I want to be a full stack developer..<br>I am currently studying mern stack and full stack development.. <br>Ask me about coding, management skills and softskilling..<br>Fun fact is coding is nothing that you know you will do not know nothing but pretend to know everything.<br>I love coding and solving problems 
 
 
