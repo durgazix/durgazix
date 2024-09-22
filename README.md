@@ -5,7 +5,7 @@ I'm @durgazix
 I'm currently working on a MERN stack project.. <br>I want to be a full stack developer..<br>I am currently studying mern stack and full stack development.. <br>Ask me about coding, management skills and softskilling..<br>Fun fact is coding is nothing that you know you will do not know nothing but pretend to know everything.<br>I love coding and solving problems 
 
 
-## 🌐 Socials:
+## 🌐 Get In Touch With:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077552869533&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/laden_in_666?igsh=OHoxMDNzenp6MGt4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-sahoo-427213287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 <p align="center">
